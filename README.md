@@ -1,5 +1,5 @@
 # landing-page
- projectname : # landing page Project
+ projectname : # landing-page-Project
 
 ## Overview
 This project requires you to create  web app that uses **html**, **css** and javascript . 
@@ -12,6 +12,6 @@ you can use `style.css` to style your application to customized perfection.
 ## Extras
 If you are interested in testing your code as you go, you can use `tests.js` as a template for writing and running some basic tests for your code.
 
-# Link
+# Linke
 
 https://fatmasuliman.github.io/landing-page/
